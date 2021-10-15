@@ -50,6 +50,8 @@ O script em Python foi desenvolvido para aproveitar das vantagens oferecidas pel
 
 Uma demonstração de execução deste processo pelo robô está disponível através deste [link](https://1drv.ms/u/s!AiGNcL-XaP2nh-VWW8-xU_9JSnc7_A?e=xRU6bb).
 
+Também está disponível na pasta `Data\Output\` o arquivo Excel resultante da execução do vídeo.
+
 ## Pré-requisitos para execução
 
 - Python 3 (x64) com libs 'pandas' e 'openpyxl' instaladas na máquina;
